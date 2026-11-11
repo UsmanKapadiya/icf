@@ -1,0 +1,9 @@
+# Rule 1
+User-agent: *
+Disallow: /cgi-bin/
+
+# Rule 2
+User-agent: *
+Allow: /
+
+Sitemap: http://www.intellicf.com/sitemap.xml
